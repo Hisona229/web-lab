@@ -216,7 +216,7 @@ display: flex;
 }
 .image-block .image {
   display: inline-block;
-  width: 100%;
+  width: 70%;
   border: 2px solid rgb(184, 166, 155);
   box-shadow: 0px 15px 65px 0px rgba(0, 0, 0, 0.15);
   position: relative;
@@ -267,7 +267,7 @@ display: flex;
 }
 .image-block .image-barista {
   display: inline-block;
-  width: 100%;
+  width: 70%;
   border: 3px solid rgb(184, 166, 155);
   box-shadow: 0px 15px 65px 0px rgba(0, 0, 0, 0.15);
   position: relative;
@@ -361,6 +361,7 @@ display: flex;
   display: flex;
   justify-content: center;
   align-content: center;
+  background-size: cover;
 }
 .sub_block.new_dex .form_sub {
   border-radius: 30px;
